@@ -1,6 +1,8 @@
-# Installation Instructions
+# Dependencies for simulation screening
+This README.md is from [Learning Dexterous Manipulation from Exemplar Object Trajectories and Pre-Grasps](https://github.com/facebookresearch/TCDM).
 
-Please run the following commands to install our codebase:
+## Installation Instructions
+
 ```
 git clone --recurse-submodules git@github.com:facebookresearch/TCDM.git && cd TCDM
 conda env create -f environment.yml && conda activate tcdm

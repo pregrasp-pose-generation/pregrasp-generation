@@ -1,5 +1,6 @@
-# Dependencies
 
+# Dependencies for obtaining pre-grasp poses
+This README.md is from "Generate Task-free and Finger-level Pre-grasp Poses for Dexterous Manipulation". It is constructed based on [DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation](https://github.com/PKU-EPIC/DexGraspNet).
 ## Common Packages
 
 ```bash
